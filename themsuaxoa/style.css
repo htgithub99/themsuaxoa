@@ -1,0 +1,14 @@
+label {
+    display: block;
+    font-weight: lighter;
+ 
+}
+input{
+    margin-top: 6px;
+    margin-bottom: 10px;
+    outline-style: none;
+}
+input[type="text"] {
+    padding: 5px;
+    width: 19%;
+}

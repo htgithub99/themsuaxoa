@@ -1,0 +1,21 @@
+table{
+    padding: 0;
+    border: none;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    width: 1000px;
+    margin: 50px auto;
+}
+table td {
+    padding: 8px;
+    border: none;
+    border-collapse: collapse;
+    text-align: center;
+}
+th {
+    border: 1px solid #ddd;
+    padding: 2px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
